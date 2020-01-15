@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tdd-react-hooks/static/css/main.714fd260.chunk.css",
-    "main.js": "/tdd-react-hooks/static/js/main.ba87a7fc.chunk.js",
-    "main.js.map": "/tdd-react-hooks/static/js/main.ba87a7fc.chunk.js.map",
-    "runtime-main.js": "/tdd-react-hooks/static/js/runtime-main.0f3218cf.js",
-    "runtime-main.js.map": "/tdd-react-hooks/static/js/runtime-main.0f3218cf.js.map",
-    "static/js/2.25553910.chunk.js": "/tdd-react-hooks/static/js/2.25553910.chunk.js",
-    "static/js/2.25553910.chunk.js.map": "/tdd-react-hooks/static/js/2.25553910.chunk.js.map",
-    "index.html": "/tdd-react-hooks/index.html",
-    "precache-manifest.b2e1f0613f288039dbae8f42d80cd45b.js": "/tdd-react-hooks/precache-manifest.b2e1f0613f288039dbae8f42d80cd45b.js",
-    "service-worker.js": "/tdd-react-hooks/service-worker.js",
-    "static/css/main.714fd260.chunk.css.map": "/tdd-react-hooks/static/css/main.714fd260.chunk.css.map",
-    "static/js/2.25553910.chunk.js.LICENSE": "/tdd-react-hooks/static/js/2.25553910.chunk.js.LICENSE"
+    "main.css": "/right-way-coding/static/css/main.714fd260.chunk.css",
+    "main.js": "/right-way-coding/static/js/main.1e056f36.chunk.js",
+    "main.js.map": "/right-way-coding/static/js/main.1e056f36.chunk.js.map",
+    "runtime-main.js": "/right-way-coding/static/js/runtime-main.79b50d49.js",
+    "runtime-main.js.map": "/right-way-coding/static/js/runtime-main.79b50d49.js.map",
+    "static/js/2.25553910.chunk.js": "/right-way-coding/static/js/2.25553910.chunk.js",
+    "static/js/2.25553910.chunk.js.map": "/right-way-coding/static/js/2.25553910.chunk.js.map",
+    "index.html": "/right-way-coding/index.html",
+    "precache-manifest.bd7e8bd7d830236fb546db2f25c90a4d.js": "/right-way-coding/precache-manifest.bd7e8bd7d830236fb546db2f25c90a4d.js",
+    "service-worker.js": "/right-way-coding/service-worker.js",
+    "static/css/main.714fd260.chunk.css.map": "/right-way-coding/static/css/main.714fd260.chunk.css.map",
+    "static/js/2.25553910.chunk.js.LICENSE": "/right-way-coding/static/js/2.25553910.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f3218cf.js",
+    "static/js/runtime-main.79b50d49.js",
     "static/js/2.25553910.chunk.js",
     "static/css/main.714fd260.chunk.css",
-    "static/js/main.ba87a7fc.chunk.js"
+    "static/js/main.1e056f36.chunk.js"
   ]
 }
