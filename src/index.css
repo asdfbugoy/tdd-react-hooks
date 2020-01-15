@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.progress-percent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: #000000;
+}
