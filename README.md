@@ -11,32 +11,30 @@
 
 ## NPM
 
-    ### npm install
+### npm install
 
     1. Install Packages
 
-    ### npm start
+### npm start
 
     1. Runs the App in development mode
     2. http://localhost:3000;
 
-    ### npm test-cypress
+### npm test-cypress
 
     1. Runs Testing in Cypress
 
 ## YARN
 
-    ### yarn
+### yarn
 
     1. Install Packages
 
-    ### yarn start
+### yarn start
 
     1. Runs the App in development mode
     2. http://localhost:3000;
 
-    ### yarn test-cypress
+### yarn test
 
     1. Runs Testing in Cypress
-
-
