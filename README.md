@@ -7,7 +7,9 @@
 
 ## GIT
 
-    1. git clone --branch master https://github.com/asdfbugoy/right-way-coding.git [foldername]
+### git clone --branch master https://github.com/asdfbugoy/right-way-coding.git [foldername]
+
+    1. clone from github
 
 ## NPM
 
